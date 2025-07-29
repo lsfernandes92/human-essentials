@@ -29,6 +29,9 @@
 <a href="https://github.com/rubyforgood/human-essentials/" alt="Watchers"><img src="https://img.shields.io/github/watchers/rubyforgood/human-essentials?style=social" /></a>
 </p>
 
+> [!TIP]
+> I created a personal docs folder with my notes and findings about this org as well as its core features, values and mission. These can be found under `docs/personal` folder
+
 ## Mission 💖
 
 Human Essentials is an inventory management system built to address the needs of [Diaper Banks](https://nationaldiaperbanknetwork.org/diaper-need/) as directly and explicitly as possible and adapted to meet the needs of other Essentials Banks. Essentials Banks maintain inventory, receive donations and other human essentials supplies (e.g. diapers, period supplies), and issue distributions to community partner organizations. Like any non-profit, they also need to perform reports on this data and have day-to-day operational information they need. This application aims to serve those needs and facilitate the general operations of the Diaper Banks (e.g., using barcode readers, scale weighing, inventory audits).
